@@ -1,4 +1,4 @@
-# Islamic App
+# Quran Mp3 Qibla Finder
 
 A comprehensive Islamic application built with Flutter that provides various Islamic features and utilities to help Muslims practice their faith.
 
