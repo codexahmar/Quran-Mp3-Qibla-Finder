@@ -93,10 +93,6 @@ flutter run
 
 - Android
 - iOS
-- Web
-- Windows
-- macOS
-- Linux
 
 ## Requirements
 
